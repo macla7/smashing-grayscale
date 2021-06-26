@@ -1,6 +1,8 @@
 body {
   background-color: rgb(201, 201, 201);
   margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
 }
 
 h3 {
@@ -14,6 +16,7 @@ h3 {
 
 article {
   background-color: rgb(170,170,170);
+  padding: 10px;
 }
 
 nav {
@@ -36,6 +39,7 @@ aside {
   position: relative;
   margin-top: 100px;
   text-align: center;
+  padding: 10px;
 }
 
 main {
@@ -87,8 +91,11 @@ aside section h3 {
 .art2 h3,
 .art3 h3 {
   background-color: rgb(140,140,140);
+  font-weight: 300;
 }
 
 p {
   background-color: rgb(160,160,160);
+  line-height: 1.5em;
+  padding: 10px;
 }
